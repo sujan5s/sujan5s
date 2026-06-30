@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sujan5s&theme=dark&hide_border=false&cache_seconds=86400)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujan5s&theme=dark)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=shreyass0709&theme=transparent&hide_border=false)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan5s&theme=dark&hide_border=false&layout=compact)
 
