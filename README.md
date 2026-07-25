@@ -1,55 +1,243 @@
-# 💫 About Me:
-👋 Hi, I’m Sujan  
-💻 Passionate about development and designing  
-🚀 Currently working on developing websites and apps  
-🎯 Goals for this year: To learn new skills  
-🌱 Always learning coding  
-💡 Fun fact: I blend my love for creativity into both 3D design and music—whether it's crafting digital art or playing guitar melodies!  
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00D9FF&height=220&section=header&text=Sujan%20S&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%203D%20Artist&descAlignY=52&descSize=18&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sujan_s_ganiga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-s-74b61b288)
+<a href="https://github.com/sujan5s">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+websites+%26+apps+%F0%9F%9A%80;Crafting+3D+worlds+in+Blender+%F0%9F%8E%A8;Playing+guitar+melodies+%F0%9F%8E%B8;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sujan5s&theme=dark&hide_border=false&cache_seconds=86400)
 <br/>
-![](https://streak-stats.demolab.com/?user=sujan5s&theme=transparent&hide_border=false)<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sujan5s&label=PROFILE+VIEWS&color=8E2DE2&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/sujan5s?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="followers" />
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%203D-4A00E0?style=for-the-badge&labelColor=0D1117" alt="focus" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.gif" width="100%" />
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  &nbsp;whoami
+</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```ts
+const sujan = {
+  role      : "Developer & Designer",
+  building  : ["websites", "mobile apps", "3D experiences"],
+  learning  : ["system design", "cloud", "WebGL"],
+  toolbelt  : ["React", "Node", "NestJS", "Three.js", "Blender"],
+  goals2026 : "level up, ship more, learn relentlessly",
+  funFact   : "I sculpt in Blender and play guitar — " +
+              "creativity is the through-line in everything I build.",
+  motto     : "design it beautiful, then make it fast.",
+};
+```
+
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan5s&theme=dark&hide_border=false&layout=compact)
 
----
+- 🧩 &nbsp;I turn ideas into **interfaces people enjoy using**
+- 🌍 &nbsp;Deploying on **AWS** & **Cloudflare**
+- 🎨 &nbsp;3D artist — **Blender** by night, **Three.js** by day
+- 🎸 &nbsp;Guitarist — melodies in, code out
+- 💬 &nbsp;Ask me about **frontend, 3D on the web, or clean UI**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sujan5s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</td>
+<td width="40%" valign="top">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+</tr>
+</table>
 
----
+<!-- ═══════════════════════════ SOCIALS ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
+  &nbsp;Find me around the web
+</h2>
 
-[![](https://visitcount.itsvg.in/api?id=sujan5s&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sujan-s-74b61b288">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/sujan_s_ganiga">
+  <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sujan5s">
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sujanshivananda5@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Email" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" />
+  &nbsp;My Arsenal
+</h2>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&theme=dark" height="52" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,threejs,vite&theme=dark" height="52" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,prisma&theme=dark" height="52" />
+
+**Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,vercel&theme=dark" height="52" />
+
+**Design & 3D**
+
+<img src="https://skillicons.dev/icons?i=blender,figma,ae,ps&theme=dark" height="52" />
+
+</div>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" />
+  &nbsp;Featured Work
+</h2>
+
+<div align="center">
+
+<!-- Replace REPO_NAME_1..4 with your actual repository names -->
+<a href="https://github.com/sujan5s/REPO_NAME_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
+<a href="https://github.com/sujan5s/REPO_NAME_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
+<br/>
+<a href="https://github.com/sujan5s/REPO_NAME_3">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
+<a href="https://github.com/sujan5s/REPO_NAME_4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
+
+</div>
+
+<div align="center">
+
+| Project | Stack | What it does |
+|:--|:--|:--|
+| **[Project One](https://github.com/sujan5s/REPO_NAME_1)** | `React` `Tailwind` `Node` | One-line description of what it does |
+| **[Project Two](https://github.com/sujan5s/REPO_NAME_2)** | `Three.js` `Blender` | Interactive 3D web experience |
+| **[Project Three](https://github.com/sujan5s/REPO_NAME_3)** | `NestJS` `MongoDB` | REST API with auth + role management |
+| **[Project Four](https://github.com/sujan5s/REPO_NAME_4)** | `Java` `MySQL` | Desktop / academic project |
+
+<sub>↑ swap the placeholders for your real repos — the cards above update automatically</sub>
+
+</div>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" />
+  &nbsp;GitHub Analytics
+</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan5s&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujan5s&bg_color=0D1117&color=00D9FF&line=8E2DE2&point=FF2E97&area=true&hide_border=true" />
+
+</div>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" />
+  &nbsp;Contribution Snake
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujan5s/sujan5s/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujan5s/sujan5s/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sujan5s/sujan5s/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u3Wxpsw/giphy.gif" width="28" />
+  &nbsp;Trophy Cabinet
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujan5s&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<!-- ═══════════════════════════ CODING TIME ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28" />
+  &nbsp;Weekly Coding Breakdown
+</h2>
+
+<div align="center">
+
+<!-- Sign up free at wakatime.com, install the editor plugin, then this fills in automatically -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sujan5s&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+<sub>Powered by <a href="https://wakatime.com">WakaTime</a> — install the plugin for your editor and this fills itself in</sub>
+
+</div>
+
+<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28" />
+  &nbsp;Dev Quote of the Day
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
+
+<!-- ═══════════════════════════ CTA ═══════════════════════════ -->
+<br/>
+
+<div align="center">
+
+### 🤝 &nbsp;Let's build something
+
+I'm open to **collaborations, freelance work, and open-source contributions.**
+
+<a href="mailto:sujanshivananda5@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-00D9FF?style=for-the-badge&logo=minutemailer&logoColor=0D1117" />
+</a>
+<a href="https://www.linkedin.com/in/sujan-s-74b61b288">
+  <img src="https://img.shields.io/badge/Let's%20Connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐️ &nbsp;*If any of my work helped you, a star means a lot.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4A00E0,100:8E2DE2&height=140&section=footer" />
