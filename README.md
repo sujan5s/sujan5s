@@ -159,16 +159,15 @@ const sujan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&ring_color=FF2E97&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=sujan5s&hide_border=true&background=0D1117&border=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan5s&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujan5s&bg_color=0D1117&color=00D9FF&line=8E2DE2&point=FF2E97&area=true&hide_border=true" />
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujan5s&bg_color=0D1117&color=00D9FF&line=8E2DE2&point=FF2E97&area=true&area_color=8E2DE2&hide_border=true&title_color=00D9FF" />
 
 </div>
-
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" />
@@ -201,7 +200,6 @@ const sujan = {
 
 <div align="center">
 
-<!-- Sign up free at wakatime.com, install the editor plugin, then this fills in automatically -->
 <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sujan5s&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 <sub>Powered by <a href="https://wakatime.com">WakaTime</a> — install the plugin for your editor and this fills itself in</sub>
