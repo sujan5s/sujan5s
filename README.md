@@ -18,10 +18,7 @@
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.gif" width="100%" />
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  &nbsp;whoami
-</h2>
+<h2 align="center">🧑‍💻&nbsp; whoami</h2>
 
 <table>
 <tr>
@@ -58,10 +55,7 @@ const sujan = {
 </table>
 
 <!-- ═══════════════════════════ SOCIALS ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" />
-  &nbsp;Find me around the web
-</h2>
+<h2 align="center">🌐&nbsp; Find me around the web</h2>
 
 <div align="center">
 
@@ -84,10 +78,7 @@ const sujan = {
 </div>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" />
-  &nbsp;My Arsenal
-</h2>
+<h2 align="center">⚔️&nbsp; My Arsenal</h2>
 
 <div align="center">
 
@@ -114,26 +105,23 @@ const sujan = {
 </div>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" />
-  &nbsp;Featured Work
-</h2>
+<h2 align="center">🚀&nbsp; Featured Work</h2>
 
 <div align="center">
 
 <!-- Replace REPO_NAME_2..4 with your actual repository names -->
 <a href="https://github.com/sujan5s/Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 <a href="https://github.com/sujan5s/REPO_NAME_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 <br/>
 <a href="https://github.com/sujan5s/REPO_NAME_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 <a href="https://github.com/sujan5s/REPO_NAME_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 
 </div>
@@ -152,27 +140,22 @@ const sujan = {
 </div>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" />
-  &nbsp;GitHub Analytics
-</h2>
+<h2 align="center">📊&nbsp; GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&ring_color=FF2E97&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&ring_color=FF2E97" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=sujan5s&hide_border=true&background=0D1117&border=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan5s&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujan5s&bg_color=0D1117&color=00D9FF&line=8E2DE2&point=FF2E97&area=true&area_color=8E2DE2&hide_border=true&title_color=00D9FF" />
+<img width="42%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/top-langs/?username=sujan5s&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujan5s&bg_color=0D1117&color=00D9FF&line=8E2DE2&point=FF2E97&area=true&area_color=8E2DE2&hide_border=true" />
 
 </div>
+
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" />
-  &nbsp;Contribution Snake
-</h2>
+<h2 align="center">🐍&nbsp; Contribution Snake</h2>
 
 <div align="center">
   <picture>
@@ -183,34 +166,25 @@ const sujan = {
 </div>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/RDZo7znAdn2u3Wxpsw/giphy.gif" width="28" />
-  &nbsp;Trophy Cabinet
-</h2>
+<h2 align="center">🏆&nbsp; Trophy Cabinet</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sujan5s&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <!-- ═══════════════════════════ CODING TIME ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28" />
-  &nbsp;Weekly Coding Breakdown
-</h2>
+<h2 align="center">⏱️&nbsp; Weekly Coding Breakdown</h2>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sujan5s&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="60%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/wakatime?username=sujan5s&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 <sub>Powered by <a href="https://wakatime.com">WakaTime</a> — install the plugin for your editor and this fills itself in</sub>
 
 </div>
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28" />
-  &nbsp;Dev Quote of the Day
-</h2>
+<h2 align="center">💭&nbsp; Dev Quote of the Day</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
