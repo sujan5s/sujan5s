@@ -109,33 +109,32 @@ const sujan = {
 
 <div align="center">
 
-<!-- Replace REPO_NAME_2..4 with your actual repository names -->
+<a href="https://github.com/sujan5s/campus_agent">
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=campus_agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
+<a href="https://github.com/sujan5s/svms_client">
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=svms_client&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
+<br/>
+<a href="https://github.com/sujan5s/ekatha_client">
+  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=ekatha_client&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+</a>
 <a href="https://github.com/sujan5s/Portfolio">
   <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
-<a href="https://github.com/sujan5s/campus_agent.git">
-  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
-</a>
-<br/>
-<a href="https://github.com/sujan5s/ekatha_client.git">
-  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
-</a>
-<a href="https://github.com/sujan5s/svms_client.git">
-  <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
-</a>
 
 </div>
+
+<br/>
 
 <div align="center">
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[Portfolio](https://github.com/sujan5s/Portfolio)** | `JavaScript` `HTML` `CSS` | My personal portfolio website |
-| **[Project Two](https://github.com/sujan5s/REPO_NAME_2)** | `Three.js` `Blender` | Interactive 3D web experience |
-| **[Project Three](https://github.com/sujan5s/REPO_NAME_3)** | `NestJS` `MongoDB` | REST API with auth + role management |
-| **[Project Four](https://github.com/sujan5s/REPO_NAME_4)** | `Java` `MySQL` | Desktop / academic project |
-
-<sub>↑ swap the remaining placeholders for your real repos — the cards above update automatically</sub>
+| 🤖 **[Smart Campus Agent](https://github.com/sujan5s/campus_agent)** | `Next.js` `FastAPI` `LangGraph` `Python` | Agentic AI system where autonomous agents handle campus scheduling, room bookings & facility coordination in real time |
+| 🎓 **[SVMS Client](https://github.com/sujan5s/svms_client)** &nbsp;·&nbsp; [**Live ↗**](https://svms-ecru.vercel.app) | `Next.js` `TypeScript` `Tailwind` | Management dashboard with a fully designed multi-screen UI flow |
+| 🧩 **[Ekatha Client](https://github.com/sujan5s/ekatha_client)** | `Next.js` `TypeScript` `Tailwind` | Client-side web application built on the App Router |
+| 💼 **[Portfolio](https://github.com/sujan5s/Portfolio)** | `JavaScript` `HTML` `CSS` | My personal portfolio website |
 
 </div>
 
