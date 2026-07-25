@@ -121,9 +121,9 @@ const sujan = {
 
 <div align="center">
 
-<!-- Replace REPO_NAME_1..4 with your actual repository names -->
-<a href="https://github.com/sujan5s/REPO_NAME_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
+<!-- Replace REPO_NAME_2..4 with your actual repository names -->
+<a href="https://github.com/sujan5s/Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 <a href="https://github.com/sujan5s/REPO_NAME_2">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
@@ -142,12 +142,12 @@ const sujan = {
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[Project One](https://github.com/sujan5s/REPO_NAME_1)** | `React` `Tailwind` `Node` | One-line description of what it does |
+| **[Portfolio](https://github.com/sujan5s/Portfolio)** | `JavaScript` `HTML` `CSS` | My personal portfolio website |
 | **[Project Two](https://github.com/sujan5s/REPO_NAME_2)** | `Three.js` `Blender` | Interactive 3D web experience |
 | **[Project Three](https://github.com/sujan5s/REPO_NAME_3)** | `NestJS` `MongoDB` | REST API with auth + role management |
 | **[Project Four](https://github.com/sujan5s/REPO_NAME_4)** | `Java` `MySQL` | Desktop / academic project |
 
-<sub>↑ swap the placeholders for your real repos — the cards above update automatically</sub>
+<sub>↑ swap the remaining placeholders for your real repos — the cards above update automatically</sub>
 
 </div>
 
@@ -160,7 +160,7 @@ const sujan = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&cache_seconds=86400" />
-<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E](https://streak-stats.demolab.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E)" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
