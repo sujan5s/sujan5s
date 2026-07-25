@@ -113,14 +113,14 @@ const sujan = {
 <a href="https://github.com/sujan5s/Portfolio">
   <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
-<a href="[https://github.com/sujan5s/REPO_NAME_2](https://github.com/sujan5s/campus_agent.git)">
+<a href="https://github.com/sujan5s/campus_agent.git">
   <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 <br/>
-<a href="[https://github.com/sujan5s/REPO_NAME_3](https://github.com/sujan5s/ekatha_client.git)">
+<a href="https://github.com/sujan5s/ekatha_client.git">
   <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
-<a href="[https://github.com/sujan5s/REPO_NAME_4](https://github.com/sujan5s/svms_client.git)">
+<a href="https://github.com/sujan5s/svms_client.git">
   <img width="49%" src="https://github-readme-stats-alpha-rose-19.vercel.app/api/pin/?username=sujan5s&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2" />
 </a>
 
