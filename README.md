@@ -160,7 +160,7 @@ const sujan = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=8E2DE2&text_color=C9D1D9&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E](https://streak-stats.demolab.com/?user=sujan5s&hide_border=true&background=0D1117&stroke=8E2DE2&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E)" />
 
 <br/><br/>
 
